@@ -1,2 +1,5 @@
 # com11103-listas-c
-Armamos equipos
+Armamos el equipo Azul:
+Paula Langle 
+Anairam 
+Daniel Bustamente
